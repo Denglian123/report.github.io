@@ -1,0 +1,3 @@
+测试用例开始前，清除 App 数据...
+创建driver失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+重置 App 时出现异常: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))

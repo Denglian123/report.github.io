@@ -1,0 +1,65 @@
+测试用例开始前，清除 App 数据...
+App 已重置到初始状态
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+查找元素时出错: 'NoneType' object is not callable
+等待元素超时: ('xpath', '//*[@label="登录"]')
+当前页面结构:
+操作失败: 'NoneType' object has no attribute 'source'
