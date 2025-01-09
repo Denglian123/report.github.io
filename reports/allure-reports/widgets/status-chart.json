@@ -1,1 +1,0 @@
-[{"uid":"df56c1c81cdd6856","name":"使用正确的账号密码登录","time":{"start":1736326471120,"stop":1736326533080,"duration":61960},"status":"passed","severity":"normal"},{"uid":"69d60a32698deb29","name":"用正确的邮箱和输入包含1个数字或1个字母的8-16位错误密码","time":{"start":1736325372338,"stop":1736325475787,"duration":103449},"status":"passed","severity":"normal"}]
