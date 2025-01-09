@@ -24,6 +24,9 @@ App 已重置到初始状态
 操作完成，等待5秒...
 操作完成，等待5秒...
 点击登录页登录按钮成功
+查找元素时出错: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+查找元素时出错: ('Connection aborted.', ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))
+查找元素时出错: ('Connection aborted.', ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))
 找到元素: xpath=//*[@label="第 1 个标签，共 4 个"]
 操作完成，等待5秒...
 首页小房子图标状态: 可见
